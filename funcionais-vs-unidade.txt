@@ -1,0 +1,2 @@
+1. Teste de Unidade são muito abundantes e rodam rapidamente, enquanto Testes Funcionais são menos comuns e mais custosos.
+2. Testes Funcionais servem para validar os requisitos funcionais, do ponto de vista do usuário, enquanto Testes de Unidade funcionam como uma rede de proteção que permite modificar o sistema com mais segurança.
