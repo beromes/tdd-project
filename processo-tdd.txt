@@ -1,0 +1,8 @@
+O processo descreve o fluxo de desenvolvimento com TDD, incluindo tanto Testes Funcionais quando
+Testes de Unidade. O primeiro passo é escrever um teste funcional que irá falhar, pois o código 
+ainda não foi implementado. Feito isso, o próximo passo consiste em escrever testes de unidade
+voltados para a mesma funcionalidade testada pelo teste funcional. Para cada teste de unidade, 
+devemos escrever a quantidade mínima de código para que ele passe. Se o teste passar, verificamos
+se é necessário refatorá-lo. Quando todos os testes de unidade estiverem criados, espera-se que o
+teste funcional passe. Se ele passar, o desenvolvedor também deve checar se é necessário refatorá-lo.
+O ciclo se repete para cada teste funcional a ser criado.
